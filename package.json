@@ -7,11 +7,13 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "vue": "^2.6.6"
+    "vue": "^2.6.6",
+    "vue-router": "^3.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
     "@vue/cli-service": "^3.5.0",
+    "svg-sprite-loader": "^4.1.3",
     "vue-template-compiler": "^2.5.21"
   }
 }
